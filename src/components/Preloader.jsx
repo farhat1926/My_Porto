@@ -98,7 +98,7 @@ const Preloader = () => {
 
         {/* ✨ Teks bawah */}
         <p className="mt-8 text-sm text-white/70 tracking-widest animate-pulse">
-          Entering Hyperspace...
+          Entering to Portofolio
         </p>
 
         {/* 🔮 Efek tambahan */}

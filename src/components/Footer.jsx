@@ -9,17 +9,11 @@ const Footer = () => {
         <a href="#proyek" >Proyek</a>
       </div>
       <div className='flex items-center gap-3' >
-        <a href="#">
+        <a href="https://github.com/farhat1926">
           <i className='ri-github-fill ri-2x' ></i>
         </a>
-        <a href="#">
+        <a href="https://www.instagram.com/farhat_1926/">
           <i className='ri-instagram-fill ri-2x' ></i>
-        </a>
-        <a href="#">
-          <i className='ri-reddit-fill ri-2x' ></i>
-        </a>
-        <a href="#">
-          <i className='ri-youtube-fill ri-2x' ></i>
         </a>
       </div>
     </div>
