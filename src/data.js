@@ -166,6 +166,7 @@ export const listProyek = [
     nama: "promosi Kedai Kopi",
     desk: "Website promosi kedai kopi sederhana untuk meningkatkan visibilitas online dan menarik pelanggan baru.",
     tools: ["HTML", "CSS", "Javascript"],
-    dad: "https://farhat1926.github.io/LIYE-AMARAT/"
+    dad: "700"
+    link: "https://farhat1926.github.io/LIYE-AMARAT/"
   },
 ];
