@@ -13,7 +13,7 @@ function App() {
         <h1 className="text-5xl/tight font-bold mb-6">halo,Saya Mohamad Farhat</h1>
         <p className="text-base/loose mb-6 opacity-50">Saya adalah seorang programmer full-stack MERN (MongoDB,Expressjs,Reactjs,Nodejs) yang juga mendalami teknologi Augmented Reality. Saya suka menciptakan solusi digital yang efisien dan interaktif — mulai dari web app hingga pengalaman AR yang menarik. Selalu terbuka untuk kolaborasi dan tantangan baru di dunia teknologi.</p>
       <div className="flex items-center sm:gap-4 gap-2">
-        <a href="#" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">
+        <a href="/assets/ATS.pdf" download className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">
           Download CV <i className="ri-download-line ri-lg"></i>
         </a>
         <a href="#proyek" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">
