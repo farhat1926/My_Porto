@@ -174,7 +174,7 @@ export const listProyek = [
     gambar: Proyek7,
     nama: "Rumah Sakit A.R Fachrudin",
     desk: "Website promosi rumah sakit sederhana untuk meningkatkan visibilitas online dan menarik pasien baru.",
-    tools: ["HTML", "TailwindCSS", "Javascript","ExpressJS"],
+    tools: ["TailwindCSS", "Javascript","ExpressJS"],
     dad: "800",
     link: "https://www.rsumsarfachrudin.com/"
   },
