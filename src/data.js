@@ -169,4 +169,13 @@ export const listProyek = [
     dad: "700",
     link: "https://farhat1926.github.io/LIYE-AMARAT/"
   },
+  {
+    id: 7,
+    gambar: Proyek7,
+    nama: "Rumah Sakit A.R Fachrudin",
+    desk: "Website promosi rumah sakit sederhana untuk meningkatkan visibilitas online dan menarik pasien baru.",
+    tools: ["HTML", "TailwindCSS", "Javascript","ExpressJS"],
+    dad: "700",
+    link: "https://www.rsumsarfachrudin.com/"
+  },
 ];
