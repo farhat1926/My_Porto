@@ -4,7 +4,7 @@ import { listTools,listProyek } from "./data"
 function App() {
   return (
     <>
-    <div className="hero grid md:grid-cols-2 items-center pt-10 xl:gap-0 gap:6 grid-cols-1">
+    <div className="hero grid md:grid-cols-2 items-center pt-10 xl:gap-0 gap-6 grid-cols-1">
       <div className="animate__animated animate__fadeInUp animate__delay-3s">
         <div className="flex items-center gap-3 mb-6 bg-zinc-800 w-fit p-4 rounded-2xl">
           <img src={DataImage.HeroImage} alt="hero image" className="w-10 rounded-md" loading="lazy"/>
@@ -202,9 +202,9 @@ Bagi saya, pemrograman bukan hanya tentang menulis kode, tetapi juga tentang men
             <label htmlFor="pesan">Pesan:</label>
             <textarea name="pesan" id="pesan" cols="45" rows="7" className="border border-zinc-500 p-2 rounded-b-md" placeholder="masukkan pesan" required/>
           </div>
-          <di className="text-center">
+          <div className="text-center">
           <button type="submit" className="bg-violet-700 p-3 rounded-lg w-full cursor-pointer border border-zinc-600 hover:bg-violet-600">Kirim Pesan</button>
-          </di>
+          </div>
         </div>
       </form>
     </div>
