@@ -113,6 +113,7 @@ import Proyek3 from "/assets/proyek/transaksi_gudang.png";
 import Proyek4 from "/assets/proyek/ular_tangga.jpg";
 import Proyek5 from "/assets/proyek/website_portofolio.png";
 import Proyek6 from "/assets/proyek/pamasaran_kopi.png";
+import Proyek7 from "/assets/proyek/rums.png";
 import { link } from "framer-motion/client";
 
 export const listProyek = [
